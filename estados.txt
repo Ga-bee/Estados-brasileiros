@@ -1,0 +1,28 @@
+Sigla,Estado,Capital,x,y
+AC,Acre,Rio Branco,-145.0,51.0
+AL,Alagoas,Maceió,166.0,44.0
+AP,Amapá,Macapá,24.0,146.0
+AM,Amazonas,Manaus,-102.0,92.0
+BA,Bahia,Salvador,108.0,13.0
+CE,Ceara,Fortaleza,132.0,96.0
+DF,Distrito Federal,Brasília,59.0,-13.0
+ES,Espírito Santo,Vitória,126.0,-54.0
+GO,Goiás,Goiânia,44.0,-28.0
+MA,Maranhão,São Luiz,74.0,93.0
+MT,Mato Grosso,Cuiabá,-29.0,14.0
+MS,Mato Grosso Do Sul,Campo Grande,5.0,-51.0
+MG,Minas Gerais,Belo Horizonte,77.0,-44.0
+PA,Pará,Belém,9.0,91.0
+PB,Paraíba,João Pessoa,175.0,72.0
+PR,Paraná,Curitiba,8.0,-96.0
+PE,Pernambuco,Recife,177.0,57.0
+PI,Piauí,Terezina,94.0,53.0
+RJ,Rio De Janeiro,Rio de Janeiro,113.0,-78.0
+RN,Rio Grande Do Norte,Natal,161.0,82.0
+RS,Rio Grande Do Sul,Porto Alegre,-4.0,-149.0
+RO,Rondônia,Porto Velho,-84.0,39.0
+RR,Roraima,Boa Vista,-59.0,147.0
+SC,Santa Catarina,Florianópolis,32.0,-125.0
+SP,São Paulo,São Paulo,27.0,-75.0
+SE,Sergipe,Aracajú,158.0,32.0
+TO,Tocantins,Palmas,53.0,42.0
