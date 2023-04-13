@@ -5,7 +5,7 @@ Esse jogo é baseado no projeto do dia 25 do curso "100 Days of Code: The Comple
 
 Usando a linguagem Python com auxílio da biblioteca turtle, é possivel criar telas interativas.
 
-Temos 27 estadosno Brasil, consegue se lembrar de todos?
+Temos 27 estados no Brasil, consegue se lembrar de todos?
 
 
 ![Jogo](https://user-images.githubusercontent.com/116361973/231438549-0c1560a6-89e9-4884-934a-e68538775d18.PNG)
